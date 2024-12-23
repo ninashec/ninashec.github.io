@@ -114,15 +114,15 @@ skills:
       - name: Figure Skating
         description: ''
         percent: 100
-        icon: ice-skate
+        #icon: ice-skate
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        #icon: cat
       - name: Creative Writing
         description: ''
         percent: 100
-        icon: pen
+        #icon: pen
 
 languages:
   - name: English
