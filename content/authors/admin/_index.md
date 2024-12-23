@@ -3,7 +3,7 @@
 title: Christina Sheckler
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Christina
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: Student at the University of Michigan
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Neural Engineering in Epilepsy Lab
+    url: https://sites.google.com/umich.edu/neural-engineering-in-epilepsy/home
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -68,7 +68,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
