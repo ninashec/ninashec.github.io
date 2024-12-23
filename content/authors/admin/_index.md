@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christina Sheckler
+title: Christina
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
