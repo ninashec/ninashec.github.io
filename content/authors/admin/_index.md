@@ -46,16 +46,26 @@ interests:
   - Natural Language Processing
 
 education:
-  - area: B.S. Computer Science B.S Cognitive Science
+  - area: B.S. Computer Science 
     institution: University of Michigan
     date_start: 2020-08-01
     date_end: 2025-05-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
       Courses included:
       - EECS 492 - Introduction to Artificial Intelligence
       - EECS 445 - Introduction to Machine Learning
       - EECS 487 - Introduction to Natural Language Processing
+      - EECS 442 - Introduction to Computer Vision
+  - area: B.S Cognitive Science - Computation concentration
+    institution: University of Michigan
+    date_start: 2020-08-01
+    date_end: 2025-05-01
+    summary: |
+      Courses included:
+      - Psych 230 - Introduction to Behavioral Neuroscience
+      - Psych 336 - Drugs of Abuse
+      - CMPLXSYS 511 - Theory of Complex Systems
+      - EECS 281 - Data Structures and Algorithms
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -154,6 +164,4 @@ awards:
 
 ## About Me
 
-I am a student at the Univerity of Michigan studying Computer Science and Cognitive Science. My research interests include natural language processing, 
-human computer interaction, machine learning, and artificial intelligence in the neurotechnology domain. I am apart of the Neural Engineering in Epilepsy Lab, 
-where I develop seizure detection and classification algorithms, as well as toolboxes for mathmatical simulations.
+I am a student at the Univerity of Michigan studying Computer Science and Cognitive Science. My research interests include natural language processing, human computer interaction, machine learning, and artificial intelligence in the neurotechnology domain. I am apart of the Neural Engineering in Epilepsy Lab, where I develop seizure detection and classification algorithms, as well as toolboxes for mathmatical simulations.
