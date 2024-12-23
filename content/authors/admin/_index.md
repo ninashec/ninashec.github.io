@@ -67,17 +67,19 @@ education:
       - CMPLXSYS 511 - Theory of Complex Systems
       - EECS 281 - Data Structures and Algorithms
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: University of Michigan Biomedical Engineering
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Under Dr. William Stacey
+      ● Created an automated C++ text-parsing script that could extract relevant information from EEG comments file (.lay) and convert information to standard format used worldwide (BIDS format)
+      ● Created a computational toolbox and tutorial for generating synthetic EEG seizure data based on a mathematical model, enabling precise control over seizure onset and offset dynamics for use in developing seizure detection algorithms and training data analysis tools. Writing a manuscript on this work. 
+      ● Developed a seizure dynamotype classifier by creating a comprehensive preprocessing pipeline for EEG data, including high-pass and low-pass filtering, median filtering, sequence length normalization via cubic spline interpolation, and dimensionality reduction. Implemented data augmentation techniques such as series flipping to enhance model robustness. Applied sequence padding and data normalization to ensure consistent input shapes for neural networks. Constructed an LSTM neural network for classification of EEG signals, incorporating custom loss functions and evaluation metrics such as F1-score. Validated model performance through cross-validation and hyperparameter tuning, achieving improved accuracy on noisy and unbalanced EEG datasets. Created custom LSTM-GradCam to further understand the model classification.
+      ● Developed a sequence-to-sequence LSTM model in TensorFlow to remove white noise from EEG data. The model was trained on simulated EEG signals with white noise added at varying levels, then denoised to restore the original clean signals. Data preprocessing involved concatenating, reshaping, and padding the time-series data, followed by splitting it into training and testing sets. The model was optimized using mean squared error (MSE) to effectively filter out noise. The trained model demonstrated strong performance in removing white noise from the signals, improving data quality for subsequent analysis.
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
