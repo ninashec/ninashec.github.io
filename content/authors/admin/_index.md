@@ -71,7 +71,7 @@ work:
     company_name: University of Michigan Biomedical Engineering
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-05-01
     date_end: ''
     summary: |2-
       Under Dr. William Stacey
@@ -80,17 +80,18 @@ work:
       - Developed a seizure dynamotype classifier by creating a comprehensive preprocessing pipeline for EEG data, including high-pass and low-pass filtering, median filtering, sequence length normalization via cubic spline interpolation, and dimensionality reduction. Implemented data augmentation techniques such as series flipping to enhance model robustness. Applied sequence padding and data normalization to ensure consistent input shapes for neural networks. Constructed an LSTM neural network for classification of EEG signals, incorporating custom loss functions and evaluation metrics such as F1-score. Validated model performance through cross-validation and hyperparameter tuning, achieving improved accuracy on noisy and unbalanced EEG datasets. Created custom LSTM-GradCam to further understand the model classification.
       - Developed a sequence-to-sequence LSTM model in TensorFlow to remove white noise from EEG data. The model was trained on simulated EEG signals with white noise added at varying levels, then denoised to restore the original clean signals. Data preprocessing involved concatenating, reshaping, and padding the time-series data, followed by splitting it into training and testing sets. The model was optimized using mean squared error (MSE) to effectively filter out noise. The trained model demonstrated strong performance in removing white noise from the signals, improving data quality for subsequent analysis.
 
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Research Assistant
+    company_name: University of Michigan Psychology
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-05-01
+    date_end: 2023-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Under Dr. Stephanie Preston
+      - Assisted in Discomfort and Uncertainty in Autonomous Vehicles study exploring factors influencing passenger discomfort and trust in Autonomous Vehicles by measuring physiological stress responses and conducting post-ride surveys. 
+      - Created and administered Qualtrics surveys to assess participant discomfort before and after riding in               autonomous vehicles.
+      - Managed and assisted in a paid participant study, including physiological data collection (saliva samples, biometric monitoring) and analysis of survey responses.
+      - Coordinated participant recruitment, scheduling, and compensation through the Prolific platform.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,15 +117,15 @@ skills:
       - name: Figure Skating
         description: ''
         percent: 100
-        #icon: ice-skate
+        icon: ⛸️
       - name: Cats
         description: ''
         percent: 100
-        #icon: cat
+        icon: 🐈 
       - name: Creative Writing
         description: ''
         percent: 100
-        #icon: pen
+        icon: 🖊️
 
 languages:
   - name: English
