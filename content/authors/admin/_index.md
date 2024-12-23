@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ninashec@umich.edu'
+    url: 'mailto:ninashec@umich.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/ninashec
