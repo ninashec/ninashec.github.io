@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+       My research focuses on leveraging computational tools and mathematical modeling to address neurological conditions, particularly epilepsy. I have extensive experience analyzing EEG data and developing neural engineering solutions, using techniques from differential dynamics to predict seizure terminations. I created a toolbox for generating synthetic EEG seizure data and designed a neural network classifier to analyze seizure onset dynamics. My work emphasizes innovation, collaboration, and accessibility, with a strong focus on translating research into practical applications for diagnostics and treatments. By combining neuroscience, computer science, and engineering, I aim to advance understanding and develop therapeutic strategies in neurotechnology.
     design:
       columns: '1'
   - block: collection
