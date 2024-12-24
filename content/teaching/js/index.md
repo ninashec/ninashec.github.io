@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Undergraduate Teaching Assistant in ENTR490 Organizational Management in Startups
+summary: Optimized classroom management processes through the implementation of a new attendance tracking system and graded homework assignments
+date: 2022-01-01
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Syllabus
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
