@@ -9,6 +9,69 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
+Syllabus 
+
+
+Organizational Management in Startups WN 2022
+Jump to Today 
+
+
+DESCRIPTION: This course is designed to teach the fundamentals of identifying and prioritizing the “who” (human resource capital), the “what” (skill sets) and "why" needed for your venture to grow and thrive. Building and managing a world-class team is the most critical factors determining the success of a start-up company.  You will learn the fundamentals of the CEO role, establishing and protecting a startup culture, and best practices in recruiting, interviewing, and managing your organization. You will learn how to keep your team motivated, accountable, and happy. Students will also study what to do in failure mode to resolve internal conflicts and terminate team relationships when necessary. Students will also learn how to "sell" their ideas and vision to employees, investors, board members, partners and others.  And the course will help students learn to work as a team (in a real entrepreneurial environment) and learn how to build and manage a board.  Course work includes selected readings in organizational structure and development, case study review, in-class discussion and active role-play exercises designed to demonstrate skill proficiencies. The Instructor is a leading early-stage consultant, is a five-time CEO and piloted a company a very successful exit with a sale to J&J a few years ago.  
+
+ 
+
+COURSE DELIVERY: There will be in-person, real-time instruction on the scheduled meeting day/time listed for this course. It is the expectation that enrolled students will engage in class during class-time. Attendance will be taken. Classroom Lecture Capture will be activated and Zoom recordings may also occur. ENTR faculty verify all class recordings are linked in the semester’s course Canvas site. 
+
+Students are prohibited from recording/distributing any class activity without written permission from the instructor, except as necessary as part of approved accommodations for students with disabilities. Any approved recordings may only be used for the student’s own private use.
+
+*If you do not wish to be recorded, please contact the instructor the first week of class (or as soon as you enroll in the course, whichever is latest) to discuss alternative arrangements, since ENTR lectures may be audio/video recorded and made available to other students in this course. Additional information regarding course recordings and privacy concerns can be found on the UM ITS Recording and Privacy Concerns webpageLinks to an external site..
+
+
+
+
+ 
+
+ORGANIZATION:
+
+Instructor Discussion
+Assigned outside reading
+In-Class Exercises and Simulations
+Roundtable Discussion and Presentations
+Team Project and Presentation
+COURSE OBJECTIVES:
+
+Introduce students to the Founder/CEO role and responsibilities
+Introduce the students to the priorities and responsibilities of board members
+To introduce students to the fundamentals of how to identify their own values and leadership style and build a complimentary team to support that style.
+To impart best practices for handling team recruiting, management, incentives, conflict resolution, and pathways to success
+To enable students to quickly differentiate between high functioning and poor performing teams
+To develop an understanding of key factors that enhance or diminish the likelihood of team success; process, communication, delegation and accountability
+A specific understanding of team dynamics in a typical entrepreneurial “start-up” environment
+TEXT AND REQUIRED SUPPLIES:
+
+Internet Connected Device to Canvas
+GRADING:
+
+Class Participation & Attendance 25%
+Individual Deliverables 25%
+Team Deliverables 25%
+Final Presentation 25%
+CODE OF CONDUCT:
+
+Arrive on time and ready to engage
+Be respectful of other class members and do not use electronic devices unless requested by the Instructor
+Use the time allocated for in-class assignments or project work for those assignments
+ 
+
+YOUR IDEAS AND EVALUATIONS:
+
+Willingness to contribute and provide your own ideas and adaptations of the principles discussed in class will be important to maximizing your own abilities to apply what you are learning as the class progresses.
+ 
+
+CLASS PROJECT:
+
+By the end of September, you will form a team of 5+ people (depending on class size) in the class to create a skill sharing/training “company” around a topic that your team is deeply passionate about (e.g. photography, cooking, college admissions, etc.). Throughout the remainder of the class, you will need to develop your training program (your business) and find customers on campus (or online) to be trained by you. This company can be as technical (or manual) as you would like. At a minimum, you will need to get people to sign up for a training session and create enough value that people will want to show up and pay you for it. You will be evaluated on KPIs such 1) number of people trained and 2) revenues from sales as well as outcomes produced (results).  You will be required to conduct a board presentation/meeting with the a group of entrepreneurs acting as your board of directors.  At the end of the term you will evaluate your teammates.  
+
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
