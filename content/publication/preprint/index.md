@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "A toolbox and tutorial for simulating a comprehensive range of realistic seizures using the dynamotype map"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +17,16 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Epileptic seizures involve the brain transitioning from a resting state to an abnormal
+state of synchronized bursting, akin to a bifurcation in dynamical systems where
+a parameter shift triggers a sudden change in behavior. Recently, a comprehensive model was proposed that used dynamical equations capable of simulating 16 “dynamotypes” of seizures that span the full range of theoretical dynamics. In the current work, we developed a dynamical atlas of all 16 possible onset-offset bifurcation combinations, each characterized by distinct features in the simulated EEG-like recordings. We developed a primer and GUI allowing a user-friendly guide for generating diverse datasets of simulated seizure recordings and enhancing their resemblance to human EEG data through the addition of pink noise in post-processing and an electrode drift correction filter. This toolbox can thus produce large numbers of diverse seizure patterns that have similar noise and filtering characteristics as human EEG, which can aid in training seizure detection algorithms, understanding brain dynamical behavior for clinicians, and exploring the impact of noise on EEG recordings.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Mathamatical Modeling of Epilepsy
 
 featured: true
 
