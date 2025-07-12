@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student at the University of Michigan
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Neural Engineering in Epilepsy Lab
+  - name: Neural Engineering in Epilepsy Lab 
     url: https://sites.google.com/umich.edu/neural-engineering-in-epilepsy/home
 
 # Social network links
@@ -39,10 +39,8 @@ profiles:
     url: https://www.linkedin.com/in/christinasheckler/
 
 interests:
-  - Artificial Intelligence
-  - Computational Neuroscience
+  - Computational Neuroscience and Psychology
   - Human Computer Interaction
-  - Machine Learning
   - Natural Language Processing
 
 education:
@@ -102,14 +100,42 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
+      - name: Machine Learning (CNN, ViT, Transformers, LSTM, SVM, Random Forest, Clustering Algorithms, etc.)
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: Natural language processing (implementing pipelines for LLMs)
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: AWS
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: MATLAB
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: Object Oriented Programming
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: Computer Vision techniques
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: EEG analysis
+        description: ''
+        percent: 40
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -140,30 +166,16 @@ languages:
 awards:
   - title: 1st place in Neural Engineering Training Symposium research symposium poster competition
     date: '2024-05-25'
-    awarder: Coursera
-    icon: University of Michigan
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    awarder: University of Michigan
+    #icon: University of Michigan
+    #summary: |
+      
+  - title: 3rd place Biointerfaces Research Day Poster competition
+    date: '2024-07-01'
+    awarder: University of Michigan
+
 ---
 
 ## About Me
 
-I am a student at the Univerity of Michigan studying Computer Science and Cognitive Science. My research interests include natural language processing, human computer interaction, machine learning, and artificial intelligence in the neurotechnology domain. I am apart of the Neural Engineering in Epilepsy Lab, where I develop seizure detection and classification algorithms, as well as toolboxes for mathmatical simulations.
+I am a recent graduate of the University of Michigan with a dual degree in Computer Science and Cognitive Science. My intrest lies in applying artificial intelligence to clinical problems, particularly through natural language processing of medical notes and computer vision for healthcare data. In the Neural Engineering in Epilepsy Lab, I developed seizure detection and classification algorithms, built mathematical simulation toolboxes, and led efforts to create large, structured datasets for machine learning. I’m especially interested in building tools that make clinical information more accessible and actionable through automation and data-driven insights.
